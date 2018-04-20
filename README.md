@@ -3,7 +3,7 @@
 # Version Info
 * Python3
 * Tensorflow1.7
-* JupyterX
+* Jupyter5.x
 
 # BUGS
 
