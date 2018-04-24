@@ -22,15 +22,4 @@ Temporary Items
 
 # for Jupyter
 .ipynb_checkpoints
-**/.ipynb_checkpoints/
-**/.*
-
-s1.7/jupyter/GradientDescent/.ipynb_checkpoints/GradientDescent-checkpoint.ipynb
-
-s1.7/jupyter/GradientDescent/.ipynb_checkpoints/GradientDescent-checkpoint.ipynb
-
-s1.7/jupyter/GradientDescent/.ipynb_checkpoints/GradientDescent-checkpoint.ipynb
-
-s1.7/jupyter/MLP/.ipynb_checkpoints/MLP-checkpoint.ipynb
-
-s1.7/jupyter/MLP/.ipynb_checkpoints/MLP-checkpoint.ipynb
+.Trash-0
