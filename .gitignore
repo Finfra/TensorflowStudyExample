@@ -22,3 +22,5 @@ Temporary Items
 
 # for Jupyter
 .ipynb_checkpoints
+**/.ipynb_checkpoints/
+**/.*
