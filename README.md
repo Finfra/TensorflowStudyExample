@@ -1,8 +1,8 @@
 # Tensorflow Study Example
 
 # Version Info
-* Python2.7
-* Tensorflow1.9
+* Python3.6
+* Tensorflow1.10
 * Jupyter5.x
 
 # BUGS
