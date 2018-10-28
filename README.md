@@ -5,6 +5,8 @@
 * Tensorflow1.10
 * Jupyter5.x
 
+* PreInstalled Enviroment : https://github.com/Finfra/gdm
+
 # BUGS
 
 Please report bugs to nowage[at]gmail.com.
