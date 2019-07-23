@@ -10,5 +10,8 @@ Icon
 **/.ipynb_checkpoints/*.ipynb
 
 
+# for Tensorflow
+*/MNIST_data
 
+# for R
 _toProcess/.Rhistory
