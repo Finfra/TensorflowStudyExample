@@ -1,5 +1,5 @@
 # Tensorflow Study Example
-이제 내꺼....p
+이제 내꺼.
 # Version Info
 * Python3.6
 * Tensorflow1.10
