@@ -2,7 +2,7 @@
 
 # Version Info
 * Python3.6
-* Tensorflow1.15
+* Tensorflow1.15 
 * Jupyter5.x or new
 
 * PreInstalled Enviroment : https://github.com/Finfra/gdm
