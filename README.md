@@ -1,8 +1,12 @@
 # Tensorflow Study Example
+- 더이상 업데이트 하지 않습니다.
+- 새로운 버전은 https://github.com/Finfra/KerasStudy 에서 업데이트 합니다. 
+
+
 
 # Version Info
 * Python3.6
-* Tensorflow1.15 
+* Tensorflow1.15
 * Jupyter5.x or new
 
 * PreInstalled Enviroment : https://github.com/Finfra/gdm
