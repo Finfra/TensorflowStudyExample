@@ -5,11 +5,11 @@
 
 
 # Version Info
-* Python3.6
-* Tensorflow1.15
-* Jupyter5.x or new
-
-* PreInstalled Enviroment : https://github.com/Finfra/gdm
+* Python : 3.10
+* Tensorflow 2.12.0
+* Colab : 2023.07
+* Cuda : cu118 
+* cf) PreInstalled Enviroment : https://github.com/Finfra/gdm
 
 # BUGS
 
